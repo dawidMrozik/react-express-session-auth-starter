@@ -1,4 +1,4 @@
-# React/Express with session auth starter
+# React & Redux/Express with session auth starter
 
 ## Running
 
